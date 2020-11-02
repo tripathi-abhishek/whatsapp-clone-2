@@ -1,17 +1,16 @@
-# WhatsApp web app
-- A WhatsApp web clone with google authentication deployed using firebase
+# WhatsApp Clone webapp (2)
+- A WhatsApp web clone with google authentication deployed using firebase.
 
 
 ## Tech Stack
 
 - React js
-- Firebase for deploy
+- Firebase for deployment
 - Firebase Firestore for database
 - Firebase Google Authentication
 - React Hooks
 - React Context API
 - React Router
-- styled-components
 - material-ui icons
 
 
