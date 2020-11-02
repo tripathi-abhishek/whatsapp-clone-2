@@ -21,7 +21,7 @@
 
 ```
 $ git clone https://github.com/tripathi-abhishek/whatsapp-clone-2.git
-$ cd whatsapp-web-app
+$ cd whatsapp-clone-2
 $ npm install
 $ npm start
 ```
